@@ -1,0 +1,516 @@
+An operating sy
+stem (OS) is a 
+collection of s
+oftware that ma
+nages computer 
+hardware resour
+ces and provide
+s common servic
+es for computer
+ programs. The 
+operating syste
+m is a vital co
+mponent of the 
+system software
+ in a computer 
+system. Applica
+tion programs u
+sually require 
+an operating sy
+stem to functio
+n.
+
+Time-sharing op
+erating systems
+ schedule tasks
+ for efficient 
+use of the syst
+em and may also
+ include accoun
+ting for cost a
+llocation of pr
+ocessor time, m
+ass storage, pr
+inting, and oth
+er resources.
+
+For hardware fu
+nctions such as
+ input and outp
+ut and memory a
+llocation, the 
+operating syste
+m acts as an in
+termediary betw
+een programs an
+d the computer 
+hardware,[1][2]
+ although the a
+pplication code
+ is usually exe
+cuted directly 
+by the hardware
+ and will frequ
+ently make a sy
+stem call to an
+ OS function or
+ be interrupted
+ by it. Operati
+ng systems can 
+be found on alm
+ost any device 
+that contains a
+ computer—fro
+m cellular phon
+es and video ga
+me consoles to 
+supercomputers 
+and web servers
+.
+
+Examples of pop
+ular modern ope
+rating systems 
+include Android
+, BSD, iOS, Lin
+ux, Mac OS X, M
+icrosoft Window
+s,[3] Windows P
+hone, and IBM z
+/OS. All these,
+ except Windows
+ and z/OS, shar
+e roots in UNIX
+.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
